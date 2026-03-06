@@ -20,7 +20,7 @@ It helps developers detect common security misconfigurations before deploying to
 
 Clone the repository:
 
-git clone https://github.com/Lezaey/abyssionframework.git
+git clone https://github.com/Lezaey/Abyssion-Framework.git
 
 Install dependencies:
 
@@ -74,3 +74,4 @@ WEB001 — SVG Upload Risk
 
 
 MIT
+
