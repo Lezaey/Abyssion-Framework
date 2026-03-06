@@ -72,4 +72,5 @@ WEB001 — SVG Upload Risk
 
 ## License
 
+
 MIT
