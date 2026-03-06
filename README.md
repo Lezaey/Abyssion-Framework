@@ -1,3 +1,5 @@
+![Security Report](docs/frame.png)
+
 # AbyssionFramework
 
 AbyssionFramework v1.0.0 is a lightweight security scanner for Django applications.
@@ -74,4 +76,5 @@ WEB001 — SVG Upload Risk
 
 
 MIT
+
 
