@@ -2,7 +2,7 @@
   <img src="docs/frame.png" width="650">
 </p>
 
-<h1 align="center">AbyssionFramework</h1>
+<h1 align="center">Abyssion Framework</h1>
 
 <p align="center">
 Lightweight security scanner for Django applications
@@ -124,3 +124,4 @@ WEB001 — SVG Upload Risk
 ## License
 
 This project is licensed under the **MIT License**.
+
